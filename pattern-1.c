@@ -1,8 +1,8 @@
 /* Pattern Like:
 
-    *****
-    *****
-    *****
+    ***
+    ***
+    ***
 */
 
 #include <stdio.h>
