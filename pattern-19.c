@@ -1,8 +1,8 @@
 /*
-    Alphabetic right angle triangle
-    A
-    B B
-    C C C
+    # right angle triangle
+    #
+    # #
+    # # #
 */
 #include <stdio.h>
 
@@ -12,7 +12,7 @@ int main(void)
 
     for(i = 1; i <= n; i++){
         for(j = 1; j <= i; j++){
-            printf("%c ", i+64);
+            printf("# ");
         }
         printf("\n");
     }
